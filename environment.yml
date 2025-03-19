@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+dependencies:
+- atomistics =0.2.4
+- lammps =2024.06.27=*_openmpi_*
+- iprpy-data
+- pyironflow =0.0.16
+- pyiron_workflow =0.12.1
