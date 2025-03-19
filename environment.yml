@@ -6,3 +6,4 @@ dependencies:
 - iprpy-data
 - pyironflow =0.0.16
 - pyiron_workflow =0.12.1
+- python =3.12
